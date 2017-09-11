@@ -1,2 +1,0 @@
-# NUCalculadora
-Only Javascript
